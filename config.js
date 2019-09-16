@@ -1,2 +1,4 @@
 exports.username = 'N15DCCN022';
 exports.password = 'Trung123';
+exports.facebookToken =
+  'EAAds20qZB9ksBAB3FtGEO2IwV4epVVdhHDk1oAtAPFu4tQZCV9HOsGllgPCZCGgR4YGZBya3Fhs5Fo2qbQKkIT7azyejv4YvV6BUwZC57lW5ShitcuRE3e0sTH2ydJiTKUOmZAZB3SdmZBZCLyjzD7prlQMjKqKCuAvdgSW9TmXX4bm4HoX50trzCgg2U3hbdc2EZD';
